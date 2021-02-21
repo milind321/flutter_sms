@@ -1,4 +1,4 @@
-group 'com.babariviere.sms'
+group 'com.earnhance.sms'
 version '1.0-SNAPSHOT'
 
 buildscript {
